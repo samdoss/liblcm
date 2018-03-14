@@ -31,13 +31,13 @@ RevisionName=lastSuccessful
 RevisionValue=latest.lastSuccessful
 Condition=Linux
 Path=SIL.Core.dll => downloads/
-SIL.Core.dll.mdb => downloads/
+SIL.Core.pdb => downloads/
 SIL.Core.Desktop.dll => downloads/
-SIL.Core.Desktop.dll.mdb => downloads/
+SIL.Core.Desktop.pdb => downloads/
 SIL.Lexicon.dll => downloads/
-SIL.Lexicon.dll.mdb => downloads/
+SIL.Lexicon.pdb => downloads/
 SIL.WritingSystems.dll => downloads/
-SIL.WritingSystems.dll.mdb => downloads/
+SIL.WritingSystems.pdb => downloads/
 SIL.TestUtilities.dll => downloads/
 Newtonsoft.Json.dll => downloads/
 icu.net.dll => downloads/
